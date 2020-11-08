@@ -1,7 +1,7 @@
 # Snake-Game
 Snake Game
 
--added two types of food :-
+added two types of food :-
 
   yellow - 1 point
   
